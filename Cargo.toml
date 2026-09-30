@@ -1,7 +1,7 @@
 [package]
 name = "blake2-tree"
 version = "0.1.0"
-repository = "https://github.com/casey-digennaro/blake2-tree"
+repository = "https://github.com/SuperInstance/blake2-tree"
 edition = "2021"
 description = "BLAKE2-tree: merkle tree hashing with BLAKE2b-style compression"
 license = "MIT"
